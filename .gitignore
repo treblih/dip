@@ -1,0 +1,5 @@
+.git
+*.out
+*.o
+tags
+dip

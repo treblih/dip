@@ -1,0 +1,7 @@
+#ifndef		_GLOBAL_
+#define		_GLOBAL_
+
+/* extern	char	buf_input[BUFSIZ]; */
+extern	char*	bp;
+
+#endif
